@@ -21,7 +21,8 @@ p{
 }
 .button-container{
     position: relative;
-    bottom: 20px;    
+    bottom: 20px;
+    right: 30%;    
     display: flex;
     justify-content: center;
     align-items: center;
